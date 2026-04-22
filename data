@@ -1,0 +1,3 @@
+The git clone command is used to create a local copy of a remote Git repository.
+  It downloads the entire project history,
+all files, and all branches from platforms like GitHub, GitLab, or Bitbucket. 
